@@ -22,7 +22,7 @@ body {
   margin: 0;
   padding: 0;
   transition: 0.5s;
-  background: #ffffff;
+  background: #c4c4c4;
   cursor: default;
   font-family: "Montserrat", sans-serif;
   /* font-family: "JetBrainsMono", Montserrat, sans-serif; */
@@ -53,7 +53,7 @@ h3 {
   background: #ffffff;
   color: #000000;
   margin: 20px auto;
-  box-shadow: 10px 10px #ffffff;
+  box-shadow: 10px 10px #d9d9d9;
   position: relative;
   display: flex;
 }
@@ -82,7 +82,7 @@ h3 {
 }
 
 .resume .base .profile {
-  background: #4e4e4e;
+  background: #ff9f22;
   padding: 30px 15px 40px 15px;
   margin: -30px -15px 45px -15px;
   position: relative;
@@ -146,7 +146,7 @@ h3 {
 }
 
 .resume .base .contact div a:hover {
-  color: #e79940;
+  color: #ff9f22;
 }
 
 .resume .base .contact div a:hover span::after {
@@ -154,7 +154,7 @@ h3 {
 }
 
 .resume .base .contact div:hover i {
-  color: #e79940;
+  color: #ff9f22;
 }
 
 .resume .base .contact div i {
@@ -174,7 +174,7 @@ h3 {
 .resume .base .contact div span::after {
   content: "";
   position: absolute;
-  background: #e79940;
+  background: #ff9f22;
   height: 1px;
   width: 0;
   bottom: 0;
@@ -193,7 +193,7 @@ h3 {
 }
 
 .resume .base .follow .box a:hover i {
-  background: #e79940;
+  background: #ff9f22;
   border-radius: 5px;
   -webkit-transform: rotate(45deg) scale(0.8);
           transform: rotate(45deg) scale(0.8);
@@ -289,12 +289,12 @@ h3 {
 
 .resume .func .work ul li:hover span,
 .resume .func .edu ul li:hover span {
-  color: #e79940;
+  color: #ff9f22;
 }
 
 @-webkit-keyframes circle {
   from {
-    box-shadow: 0 0 0 0px #e79940;
+    box-shadow: 0 0 0 0px #ff9f22;
   }
   to {
     box-shadow: 0 0 0 6px rgba(255, 255, 255, 0);
@@ -303,7 +303,7 @@ h3 {
 
 @keyframes circle {
   from {
-    box-shadow: 0 0 0 0px #e79940;
+    box-shadow: 0 0 0 0px #ff9f22;
   }
   to {
     box-shadow: 0 0 0 6px rgba(255, 255, 255, 0);
@@ -391,12 +391,12 @@ h3 {
 }
 
 .resume .func .skills-prog ul li:hover {
-  color: #e79940;
+  color: #ff9f22;
 }
 
 .resume .func .skills-prog ul li:hover .skills-bar .bar {
-  background: #e79940;
-  box-shadow: 0 0 0 1px #e79940;
+  background: #ff9f22;
+  box-shadow: 0 0 0 1px #ff9f22;
 }
 
 .resume .func .skills-prog ul li span {
@@ -439,7 +439,7 @@ h3 {
 }
 
 .resume .func .skills-soft ul li:hover svg .cbar {
-  stroke: #e79940;
+  stroke: #ff9f22;
   stroke-width: 4px;
 }
 
@@ -511,7 +511,7 @@ h3 {
 }
 
 .resume .func .interests-items div:hover span {
-  color: #e79940;
+  color: #ff9f22;
   transition-duration: 0.3s;
 }
 
