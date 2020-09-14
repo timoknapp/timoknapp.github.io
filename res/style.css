@@ -92,7 +92,7 @@ h3 {
 .resume .base .profile::after {
   content: "";
   position: absolute;
-  background: #b1afaf70;
+  background: #ff9f22;
   width: 100%;
   height: 30px;
   bottom: -15px;
